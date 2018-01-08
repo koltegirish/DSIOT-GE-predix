@@ -35,4 +35,4 @@ Please update any comments on the Wiki.
 
 Note:-
 All the project information,the available data sets can be found on Github link,
-https://github.com/koltegirish/DSIOT-GE-predix.git
+https://github.com/koltegirish/DSIOT-GE-predix
